@@ -1,4 +1,4 @@
-### Olá,sou Vitor Alves, mais conhecido pelo nick "Valvesitor".
+### Olá, sou Vitor Alves, mais conhecido pelo nick "Valvesitor".
  Estudante do Ceet Vasco Coutinho - cursando o curso de TI.
 
 
